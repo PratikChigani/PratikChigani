@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @PratikChigani
 - 👀 I’m interested in Coding
-- 🌱 I’m currently Pursuing M.C.A
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently Pursuing Masters of Computer Applications
 - 📫 How to reach me ...pratikchigani@gmail.com
 
 <!---
