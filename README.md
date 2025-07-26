@@ -38,7 +38,7 @@ Welcome to my GitHub! I'm a passionate Fullstack Developer with **18 years of pr
 
 ---
 
-## 📌 Highlight Projects
+## 📌 Projects
 
 ### 🔔 Push Notification System Revamp
 - Re-architected a tightly coupled notification system using **event-driven**, **asynchronous Lambda pipelines**
@@ -67,7 +67,6 @@ I aim to grow into a **Software Architect** role while building impactful system
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/pratikchigani/)  
 - 📧 [Email Me](mailto:pratikchigani@gmail.com)  
-- 💼 [Resume](https://your-resume-link.com)
 
 ---
 
