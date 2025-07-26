@@ -2,7 +2,7 @@
 
 ### Fullstack Software Developer | System Design Enthusiast | Startup-Oriented Builder
 
-Welcome to my GitHub! I'm a passionate Fullstack Developer with **18 years of professional experience** working across **web, backend, Android, and iOS production deployments** in the **Heavy Equipment Technology domain**. I thrive in startup environments, love building scalable systems, and believe in writing clean, maintainable code that solves real-world problems.
+Welcome to my GitHub! I'm a passionate Fullstack Developer with **1.8 years of professional experience** working across **web, backend, Android, and iOS production deployments** in the **Heavy Equipment Technology domain**. I thrive in startup environments, love building scalable systems, and believe in writing clean, maintainable code that solves real-world problems.
 
 ---
 
